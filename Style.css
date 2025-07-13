@@ -1,0 +1,114 @@
+.{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: white;
+  font-family: Tahoma (sans-serif);
+}
+.container{
+  max-width: 10000px;
+  background-color: skyblue;
+  margin: 0 auto;
+  padding: 30px;
+}
+header{
+  line-height: 0.5; 
+  
+}
+.profile-image{
+  width: 100px;
+  height: 120px;
+  border: 3px solid width;
+  border-radius:50%;
+  float: left;
+}
+.header-bio{
+  float: left;
+  padding: 20px;
+  margin: 0 auto;
+  
+}
+h1,h2,h3,h4,h5,h6{
+  color: steelblue;
+}
+.header-contact{
+  float: right;
+  padding: 5px;
+  
+}
+.header-contact a{
+  text-decoration: none;
+  color: teal;
+  font-weight: bold;
+  
+  
+}
+.header-contact a:hover{
+  text-decoration: underline;
+  color: tomato;
+  
+}
+.div-clear{
+  clear: both;
+}
+hr{
+  border: solid black 3px;
+  width: 100%;
+  margin: 20px auto;
+  border-bottom: none;
+  
+}
+
+.section-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 15px;
+  text-decoration: underline;
+  text-decoration: skyblue;
+  padding:10px;
+
+}
+
+}
+#pro1{
+  margin: 0 auto;
+  float: left;
+  text-align: center;
+  
+}
+.td1{
+  text-align: left;
+  font-size: 30px;
+  line-height: 1.6; 
+  margin: 0 auto;
+  
+}
+
+.ed1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 15px;
+  text-decoration: underline;
+  text-decoration: skyblue;
+  padding:16px;
+  
+
+}
+.table2{
+  width: 100%;
+  border-collapse: collapse ;
+  margin-top: 20px;
+  font-size: 20px;
+  border-color: black
+}
+
+.table2 th, .table2 td {
+  border: 3.2px solid black;
+  padding: 10px;
+  font-size: 21px;
+  text-align: center;
+  font-family: arial sans-serif;
+}
